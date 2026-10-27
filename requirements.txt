@@ -1,0 +1,6 @@
+streamlit
+mysql-connector-python
+pandas
+python-dotenv
+PyJWT
+bcrypt
